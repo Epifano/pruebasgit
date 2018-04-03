@@ -4,11 +4,10 @@
 
 <body>
 
-<!--Editado por mi :v-->
-<h1>Holi</h1>
-
-<h3>ajsgdasd</h3>
+<h1>HOla</h1>
+<h6>Send n</h6>
 </body>
+
 
 
 </html>
